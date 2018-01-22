@@ -1,0 +1,9 @@
+C:\Exam\Hello World\RNano.HelloWorld.Domain.Model\bin\Debug\netcoreapp2.0\RNano.HelloWorld.Domain.Model.deps.json
+C:\Exam\Hello World\RNano.HelloWorld.Domain.Model\bin\Debug\netcoreapp2.0\RNano.HelloWorld.Domain.Model.dll
+C:\Exam\Hello World\RNano.HelloWorld.Domain.Model\bin\Debug\netcoreapp2.0\RNano.HelloWorld.Domain.Model.pdb
+C:\Exam\Hello World\RNano.HelloWorld.Domain.Model\obj\Debug\netcoreapp2.0\RNano.HelloWorld.Domain.Model.csprojResolveAssemblyReference.cache
+C:\Exam\Hello World\RNano.HelloWorld.Domain.Model\obj\Debug\netcoreapp2.0\RNano.HelloWorld.Domain.Model.csproj.CoreCompileInputs.cache
+C:\Exam\Hello World\RNano.HelloWorld.Domain.Model\obj\Debug\netcoreapp2.0\RNano.HelloWorld.Domain.Model.AssemblyInfoInputs.cache
+C:\Exam\Hello World\RNano.HelloWorld.Domain.Model\obj\Debug\netcoreapp2.0\RNano.HelloWorld.Domain.Model.AssemblyInfo.cs
+C:\Exam\Hello World\RNano.HelloWorld.Domain.Model\obj\Debug\netcoreapp2.0\RNano.HelloWorld.Domain.Model.dll
+C:\Exam\Hello World\RNano.HelloWorld.Domain.Model\obj\Debug\netcoreapp2.0\RNano.HelloWorld.Domain.Model.pdb

@@ -1,0 +1,14 @@
+C:\Exam\Hello World\RNano.HelloWorld.Infrastructure\bin\Debug\netcoreapp2.0\Sql\Data\Message.json
+C:\Exam\Hello World\RNano.HelloWorld.Infrastructure\bin\Debug\netcoreapp2.0\RNano.HelloWorld.Infrastructure.deps.json
+C:\Exam\Hello World\RNano.HelloWorld.Infrastructure\bin\Debug\netcoreapp2.0\RNano.HelloWorld.Infrastructure.dll
+C:\Exam\Hello World\RNano.HelloWorld.Infrastructure\bin\Debug\netcoreapp2.0\RNano.HelloWorld.Infrastructure.pdb
+C:\Exam\Hello World\RNano.HelloWorld.Infrastructure\bin\Debug\netcoreapp2.0\RNano.HelloWorld.Domain.dll
+C:\Exam\Hello World\RNano.HelloWorld.Infrastructure\bin\Debug\netcoreapp2.0\RNano.HelloWorld.Domain.Model.dll
+C:\Exam\Hello World\RNano.HelloWorld.Infrastructure\bin\Debug\netcoreapp2.0\RNano.HelloWorld.Domain.Model.pdb
+C:\Exam\Hello World\RNano.HelloWorld.Infrastructure\bin\Debug\netcoreapp2.0\RNano.HelloWorld.Domain.pdb
+C:\Exam\Hello World\RNano.HelloWorld.Infrastructure\obj\Debug\netcoreapp2.0\RNano.HelloWorld.Infrastructure.csprojResolveAssemblyReference.cache
+C:\Exam\Hello World\RNano.HelloWorld.Infrastructure\obj\Debug\netcoreapp2.0\RNano.HelloWorld.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Exam\Hello World\RNano.HelloWorld.Infrastructure\obj\Debug\netcoreapp2.0\RNano.HelloWorld.Infrastructure.AssemblyInfoInputs.cache
+C:\Exam\Hello World\RNano.HelloWorld.Infrastructure\obj\Debug\netcoreapp2.0\RNano.HelloWorld.Infrastructure.AssemblyInfo.cs
+C:\Exam\Hello World\RNano.HelloWorld.Infrastructure\obj\Debug\netcoreapp2.0\RNano.HelloWorld.Infrastructure.dll
+C:\Exam\Hello World\RNano.HelloWorld.Infrastructure\obj\Debug\netcoreapp2.0\RNano.HelloWorld.Infrastructure.pdb

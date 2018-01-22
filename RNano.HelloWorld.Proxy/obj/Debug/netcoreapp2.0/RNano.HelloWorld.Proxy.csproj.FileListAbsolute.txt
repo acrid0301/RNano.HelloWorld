@@ -1,0 +1,13 @@
+C:\Exam\Hello World\RNano.HelloWorld.Proxy\bin\Debug\netcoreapp2.0\RNano.HelloWorld.Proxy.deps.json
+C:\Exam\Hello World\RNano.HelloWorld.Proxy\bin\Debug\netcoreapp2.0\RNano.HelloWorld.Proxy.dll
+C:\Exam\Hello World\RNano.HelloWorld.Proxy\bin\Debug\netcoreapp2.0\RNano.HelloWorld.Proxy.pdb
+C:\Exam\Hello World\RNano.HelloWorld.Proxy\bin\Debug\netcoreapp2.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Exam\Hello World\RNano.HelloWorld.Proxy\bin\Debug\netcoreapp2.0\RNano.HelloWorld.Domain.Model.dll
+C:\Exam\Hello World\RNano.HelloWorld.Proxy\bin\Debug\netcoreapp2.0\RNano.HelloWorld.Domain.Model.pdb
+C:\Exam\Hello World\RNano.HelloWorld.Proxy\bin\Debug\netcoreapp2.0\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Exam\Hello World\RNano.HelloWorld.Proxy\obj\Debug\netcoreapp2.0\RNano.HelloWorld.Proxy.csprojResolveAssemblyReference.cache
+C:\Exam\Hello World\RNano.HelloWorld.Proxy\obj\Debug\netcoreapp2.0\RNano.HelloWorld.Proxy.csproj.CoreCompileInputs.cache
+C:\Exam\Hello World\RNano.HelloWorld.Proxy\obj\Debug\netcoreapp2.0\RNano.HelloWorld.Proxy.AssemblyInfoInputs.cache
+C:\Exam\Hello World\RNano.HelloWorld.Proxy\obj\Debug\netcoreapp2.0\RNano.HelloWorld.Proxy.AssemblyInfo.cs
+C:\Exam\Hello World\RNano.HelloWorld.Proxy\obj\Debug\netcoreapp2.0\RNano.HelloWorld.Proxy.dll
+C:\Exam\Hello World\RNano.HelloWorld.Proxy\obj\Debug\netcoreapp2.0\RNano.HelloWorld.Proxy.pdb
