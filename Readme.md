@@ -66,6 +66,3 @@ Console.WriteLine("======= Get Hello Message using Proxy Factory =======");
 4. The project has multiple start up. It will start the api first and then the console application.
 5. Run the solution project
 
-### Meta
-
-See Notes. please email me at randy.nano@nano-brothers.com if you have questions/comments from this code.
